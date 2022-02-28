@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/kurt/Documents/git/kurtlogan/game-of-life/src/main/scala/gameoflife/Main.scala:8:33: value between is not a member of object scala.util.Random[0m
+[0m[[0m[31merror[0m] [0m[0m  val array = Array.fill(Random.between(10, 100)) { Array.fill(Random.between(10, 100)) { Random.between(0, 2) } }[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kurt/Documents/git/kurtlogan/game-of-life/src/main/scala/gameoflife/Main.scala:8:71: value between is not a member of object scala.util.Random[0m
+[0m[[0m[31merror[0m] [0m[0m  val array = Array.fill(Random.between(10, 100)) { Array.fill(Random.between(10, 100)) { Random.between(0, 2) } }[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kurt/Documents/git/kurtlogan/game-of-life/src/main/scala/gameoflife/Main.scala:8:98: value between is not a member of object scala.util.Random[0m
+[0m[[0m[31merror[0m] [0m[0m  val array = Array.fill(Random.between(10, 100)) { Array.fill(Random.between(10, 100)) { Random.between(0, 2) } }[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

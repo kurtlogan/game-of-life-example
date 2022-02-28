@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/game-of-life_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/ArrayOps$MArrayOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/ArrayOps$MArrayOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/ArrayOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/ArrayOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/ArrayOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/ArrayOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/Neighbours.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/Neighbours.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/Neighbours$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/Neighbours$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/ArrayOps$MArrayOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/ArrayOps$MArrayOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameoflife/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/game-of-life/target/scala-2.13/classes/gameoflife/Main$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
